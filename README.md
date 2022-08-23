@@ -1,7 +1,26 @@
 [![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eddiejaoude/eddiejaoude)
 
-### Hi there 👋
+Web designer and developer, I love my field very much, with more than 2 years of web development experience.
 
+This job is one of the most popular companies in South Africa.
+
+I have the skill of communicating with the customer and understanding his needs, I rely on building my applications on organized and small codes in order to facilitate the development of the application in the future.
+
+My Skills:
+
+Backend Development: PHP.
+
+Front End Development: HTML, CSS, Javascript, Bootstrap.
+
+Databases: SQL, MySQL, SQLite.
+
+-Microsoft Office: Word, Excel and PowerPoint
+
+C# take into account in programming
+
+My goal, to create high-quality works, photos, photos, photos, images
+
+You are welcome at any time, feel free to contact me.
 <!--
 **maimouhareb/maimouhareb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,17 +36,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Managing Jenkins Plugins](https://blog.mphomphego.co.za/blog/2022/06/24/Managing-Jenkins-Plugins.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-1.html)
-- [How I Uninstalled YouTube From Android TV](https://blog.mphomphego.co.za/blog/2022/04/11/How-I-uninstalled-YouTube-from-Android-TV.html)
-- [Note To Self: How To Get A Complete Plugin List From Jenkins](https://blog.mphomphego.co.za/blog/2022/03/08/Note-to-self-How-to-get-a-complete-plugin-list-from-Jenkins.html)
-- [Lunch And Learn - Security Hardening For Your Docker Environment](https://blog.mphomphego.co.za/blog/2022/02/23/Lunch-and-Learn-Security-Hardening-for-your-Docker-Environment.html)
-- [I Signed Up For A Udacity&#39;s Digital Marketing Nano Degree, Here&#39;s Why!](https://blog.mphomphego.co.za/blog/2022/02/17/I-signed-up-for-a-Udacitys-Digital-Marketing-Nano-Degree-heres-why.html)
-- [Lunch &#39;n Learn: Docker And Docker Compose &lpar;Noobs&rpar;](https://blog.mphomphego.co.za/blog/2022/02/14/Lunch-n-Learn-Docker-and-Docker-compose-Noobs.html)
-- [How To Build An ETL Using Python, Docker, PostgreSQL And Airflow](https://blog.mphomphego.co.za/blog/2022/01/09/How-to-build-an-ETL-using-Python-Docker-PostgreSQL-and-Airflow.html)
-- [2021 In Retrospective.](https://blog.mphomphego.co.za/blog/2021/12/31/2021-In-Retrospective.html)
-- [Note To Self: How To Delete AWS SageMaker&#39;s Endpoint With MonitoringSchedule](https://blog.mphomphego.co.za/blog/2021/10/29/Note-To-Self-How-to-delete-AWS-SageMakers-Endpoint-with-MonitoringSchedule.html)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <a href="https://github.com/gamussa?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamussa&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/gamussa?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=gamussa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
