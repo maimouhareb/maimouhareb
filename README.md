@@ -1,4 +1,3 @@
-[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eddiejaoude/eddiejaoude)
 
 Web designer and developer, I love my field very much, with more than 2 years of web development experience.
 
